@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 39
+  controlID: 125
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -198,7 +198,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 40
+  controlID: 50
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 41
+  controlID: 51
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -459,11 +459,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Main/Code
-    - Assets/Main/Imports
-    - Assets/Main/Material
-    - Assets/Main/Prefab
-    - Assets/Main/Scenes
+    - Assets/User/Andrew_Folder/Imports
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -471,20 +467,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 56
   m_LastFolders:
-  - Assets/Main/Code
-  - Assets/Main/Imports
-  - Assets/Main/Material
-  - Assets/Main/Prefab
-  - Assets/Main/Scenes
+  - Assets/User/Andrew_Folder/Imports
   m_LastFoldersGridSize: 56
   m_LastProjectPath: C:\Users\aewel\OneDrive\Documents\GitHub\RoboTechinian\RoboTechinian
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee590000f0590000f2590000f4590000f6590000
-    m_LastClickedID: 23030
-    m_ExpandedIDs: 00000000ca590000cc590000ce590000d0590000d659000000ca9a3b
+    scrollPos: {x: 0, y: 0.49987793}
+    m_SelectedIDs: be5a0000
+    m_LastClickedID: 23230
+    m_ExpandedIDs: 00000000ac5a0000ae5a0000b05a0000b25a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,7 +504,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ca590000cc590000ce590000d0590000
+    m_ExpandedIDs: 00000000ac5a0000ae5a0000b05a0000b25a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1061,9 +1053,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.21706069, y: 0.3131994, z: -0.07376646, w: -0.9216036}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.2170607, y: 0.3131994, z: -0.07376646, w: -0.9216036}
   m_Size:
     m_Target: 10
     speed: 2
