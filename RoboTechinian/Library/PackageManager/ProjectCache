@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/aewel/OneDrive/Documents/GitHub/RoboTechinian/RoboTechinian/Packages
-m_EditorVersion: 2022.3.43f1 (85497d293fa1)
+m_EditorVersion: 2022.3.42f1 (2dcb6a0abc42)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.5.2
   testable: 0
@@ -3516,4 +3516,4 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-m_BuiltInPackagesHash: 463cd7c3d3028ae55c3f682d531a4209aca9b4f3
+m_BuiltInPackagesHash: aee274f1cc3a449a7bcb0ab99baf64c1bcf18ae8
