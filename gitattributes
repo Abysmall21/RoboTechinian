@@ -1,0 +1,4 @@
+# auto detect text files and perform if normalization
+* text=auto
+
+Content/static/** filter=lfs diff=lfs merge=lfs -text
