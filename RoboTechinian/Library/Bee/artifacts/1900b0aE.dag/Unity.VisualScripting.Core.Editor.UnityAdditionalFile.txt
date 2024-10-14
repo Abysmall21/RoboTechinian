@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 C:\Users\aewel\OneDrive\Documents\GitHub\RoboTechinian\RoboTechinian
 =======
 C:\Users\Avishai Rosner\Documents\Unity Projects\RoboTechinian\RoboTechinian
 >>>>>>> Stashed changes
+=======
+C:\Users\Loki\Desktop\VR Project\RoboTechinian\RoboTechinian
+>>>>>>> main
