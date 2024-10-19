@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ActionBasedControllerEditor
 UnityEngine
 XR
@@ -21,8 +20,6 @@ Toolkit
 IAttachPointVelocityProvider
 AttachPointVelocityProviderExtensions
 IAttachPointVelocityTracker
-=======
->>>>>>> main
 AssetModificationProcessor
 
 Sysroot

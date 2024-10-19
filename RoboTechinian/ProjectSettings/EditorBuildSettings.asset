@@ -4,10 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  m_Scenes: []
-=======
   m_Scenes:
   - enabled: 1
     path: Assets/User/Ricardo_Folder/Scenes/MainMenu.unity
@@ -15,20 +11,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/User/Andrew_Folder/Scenes/Testroom.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
->>>>>>> main
-  m_configObjects: {}
-=======
-  m_Scenes:
-  - enabled: 1
-    path: Assets/User/Avishai_Folder/Imports/Start Menu Assets/Scenes/1 Start Scene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/User/Andrew_Folder/Scenes/Testroom.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/User/Ricardo_Folder/Scenes/MainMenu.unity
-    guid: e5a4b2e4822dbce40a82ef0253c1de5f
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e8e9996b401a85e4091e4e836fa80ed9, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 61deb71f3a9b9ac43b905f77ea4f2955, type: 2}
->>>>>>> Stashed changes
