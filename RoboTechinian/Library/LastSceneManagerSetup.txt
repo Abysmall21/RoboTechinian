@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/User/Andrew_Folder/Scenes/Testroom.unity
+- path: Assets/User/Avishai_Folder/Scenes/test_menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
