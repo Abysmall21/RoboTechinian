@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/User/Ricardo_Folder/Scenes/MainMenu.unity
+- path: Assets/User/Ricardo_Folder/Scenes/SimonSays.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
