@@ -2,17 +2,31 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[DisallowMultipleComponent]
 public class Buttons : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] Color defaultColor;
+    [SerializeField] Color highlightColor;
+    [SerializeField] float resetDelay = .25f;
+
     void Start()
     {
-        
+        GetComponent<MeshRenderer>().material.color = defaultColor;
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnMouseDown()
     {
-        
+        PressButton();
+    }
+
+    public void PressButton()
+    {
+        GetComponent<MeshRenderer>().material.color = highlightColor;
+        Invoke("ResetButton", resetDelay);
+    }
+
+    void ResetButton()
+    {
+        GetComponent<MeshRenderer>().material.color = defaultColor;
     }
 }
