@@ -432,7 +432,7 @@
 "Assets/User/Avishai_Folder/Imports/Start Menu Assets/Scripts/SetTurnTypeFromPlayerPref.cs"
 "Assets/User/Avishai_Folder/Imports/Start Menu Assets/Scripts/UIAudio.cs"
 "Assets/User/Ricardo_Folder/Code/BackgroundMusic.cs"
-"Assets/User/Ricardo_Folder/Code/Buttons.cs"
+"Assets/User/Ricardo_Folder/Code/buttonManager.cs"
 "Assets/User/Ricardo_Folder/Code/GameManger.cs"
 "Assets/User/Ricardo_Folder/Code/MainMenu.cs"
 "Assets/User/Ricardo_Folder/Code/Score.cs"
